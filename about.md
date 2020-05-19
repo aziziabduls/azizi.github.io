@@ -6,4 +6,4 @@ published: true
 ---
 ### Contact me
 
-[aziziabdul95@gmail.com](aziziabdul95@gmail.com)
+[aziziabdul95@gmail.com]
